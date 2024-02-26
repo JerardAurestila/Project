@@ -1,0 +1,14 @@
+body{
+    margin: 0;
+    background-color: gray;
+}p{
+    font-size: 20px;
+    Font-family: Times Roman, times San Serif;
+}b{
+    font-size: medium;
+    Font-family: Times Roman, times San Serif;
+}h1{
+    text-align: center;
+}h2{
+    text-align: center;
+}
