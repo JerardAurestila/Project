@@ -21,4 +21,8 @@ body{
 }video{
     width: 300px;
     height: 250px;
+}#datetime{
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
 }
